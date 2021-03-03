@@ -1,6 +1,6 @@
-# Welder Readme
+# Welder
 
-Welder is a simple application that can be added to a view. Welder allows users to dynamically load a VM workstation.
+Welder is a simple application that can be added to a View in Crucible's Player application. Welder allows users to dynamically load a VM workstation.
 
 ## Reporting bugs and requesting features
 
